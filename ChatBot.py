@@ -33,6 +33,9 @@ while True:
     elif text=='What can you do?':
         wait()
         print('Print')
+    elif text=='Let\'s play?')
+        wait()
+        print('Yes')
     else :
         wait()
         print('I don\'t understand.')
