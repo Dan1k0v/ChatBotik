@@ -30,6 +30,9 @@ while True:
     elif text=='Do you speak to English?':
         wait()
         print ('Yes')
+    elif text=='What can you do?':
+        wait()
+        print('Print')
     else :
         wait()
         print('I don\'t understand.')
